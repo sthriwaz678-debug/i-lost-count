@@ -1,4 +1,4 @@
-var myform = document.getElementById("my form");
+var my form = document.getElementById("my form");
 var myinput = document.getElementById("myyinput");
 var mylist = document.getElementById("myinput");
 
